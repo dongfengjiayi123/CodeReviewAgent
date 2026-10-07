@@ -1,0 +1,15 @@
+.env*
+!.env.example
+.venv/
+.uv-cache/
+.jupyter/
+__pycache__/
+.ipynb_checkpoints/
+outputs/*
+!outputs/.gitkeep
+*.log
+*.tmp
+.pytest_cache/
+.ruff_cache/
+dist/
+!tests/test_*.py

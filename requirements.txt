@@ -1,0 +1,8 @@
+# HelloAgents框架
+hello-agents==1.0.1
+
+# 环境变量管理
+python-dotenv==1.2.4
+
+# AST 分析使用 Python 标准库，不需要 ast-comments。
+
